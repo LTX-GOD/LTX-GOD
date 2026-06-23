@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7A8D7&vCenter=true&random=false&width=435&lines=Cybersecurity+Researcher;CTF+Player+%7C+Vuln+Hunter;Breaking+things+to+make+them+better" alt="Typing SVG" />
 </a>
 
+<br/>
+
 <!-- Header Badges -->
 <img src="https://img.shields.io/badge/Focus-Security-red?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/Team-Chamd5-blue?style=for-the-badge" />

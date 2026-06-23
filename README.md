@@ -25,44 +25,6 @@ Member of **Chamd5** & **Wgpsec** security teams. Focused on vulnerability resea
 
 ---
 
-### 🧠 Research Interests
-
-<table>
-<tr>
-<td width="50%">
-
-🔍 **Cryptography**
-- RSA / ECC / Lattice-based
-- SageMath / Z3 solver workflows
-
-</td>
-<td width="50%">
-
-🌐 **Web Security**
-- SSTI · SSRF · SQLi · XSS
-- Auth bypass · Deserialization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-⚡ **Exploit Development**
-- Heap exploitation · ROP chains
-- Windows SEH · Kernel bugs
-
-</td>
-<td width="50%">
-
-🛡️ **Vulnerability Research**
-- 1-day / N-day analysis
-- Fuzzing · Root cause tracing
-
-</td>
-</tr>
-</table>
-
----
 
 ### ⚙️ Tech Stack
 

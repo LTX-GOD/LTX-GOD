@@ -65,9 +65,9 @@ Member of **Chamd5** & **Wgpsec** security teams. Focused on vulnerability resea
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [在nvim中配置java环境](https://www.zhuangsanmeng.xyz/posts/javanvim/)
 - [Agent理解](https://www.zhuangsanmeng.xyz/posts/agentkj/)
 - [DASCTF2026夏季赛](https://www.zhuangsanmeng.xyz/posts/das2026/)
-- [好靶场日常刷题「持续更新」](https://www.zhuangsanmeng.xyz/posts/hbcst/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

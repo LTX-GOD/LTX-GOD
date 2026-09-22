@@ -65,9 +65,9 @@ Member of **Chamd5** & **Wgpsec** security teams. Focused on vulnerability resea
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [手机控制电脑上的pi-agent](https://www.zhuangsanmeng.xyz/posts/piremote/)
 - [京津冀长城杯2026线下决赛](https://www.zhuangsanmeng.xyz/posts/ccbjs/)
 - [我的pi配置杂谈](https://www.zhuangsanmeng.xyz/posts/mypi/)
-- [近期agent设计有感](https://www.zhuangsanmeng.xyz/posts/agentsj/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

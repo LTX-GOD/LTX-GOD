@@ -18,9 +18,9 @@ I currently serve on the Chamd5 and WgpSec security teams, and I run my own grou
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [关于检测agent攻击](https://www.zhuangsanmeng.xyz/posts/agentattack/)
 - [pi源码阅读「2」](https://www.zhuangsanmeng.xyz/posts/piym2/)
 - [pi源码阅读「1」](https://www.zhuangsanmeng.xyz/posts/piym1/)
-- [pi代码审计](https://www.zhuangsanmeng.xyz/posts/pidmsj/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact

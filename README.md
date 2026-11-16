@@ -18,9 +18,9 @@ I currently serve on the Chamd5 and WgpSec security teams, and I run my own grou
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么我们需要DAG](https://www.zhuangsanmeng.xyz/posts/agent-dag/)
 - [关于检测agent攻击](https://www.zhuangsanmeng.xyz/posts/agentattack/)
 - [pi源码阅读「2」](https://www.zhuangsanmeng.xyz/posts/piym2/)
-- [pi源码阅读「1」](https://www.zhuangsanmeng.xyz/posts/piym1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Contact
